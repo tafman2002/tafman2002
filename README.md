@@ -12,7 +12,7 @@ I'm a Developer with a passion for [Your Interests]. I love working on innovativ
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/tchimbindi
 
-⚡ **Fun fact:** [A fun fact about you]
+⚡ **Fun fact:** Have lived in Europe and Africa
 
 
 ## My Skills 🚀
