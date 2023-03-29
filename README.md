@@ -1,6 +1,6 @@
 # Hi, I'm Tafadzwa! 👋
 
-I'm a Developer with a passion for [Your Interests]. I love working on innovative projects that challenge me and help me develop new skills. When I'm not coding, you can find me playing soccer, traveling, and cycling.
+I'm a Developer with a passion for software development and designing and implementing scalable, secure, and resilient cloud solutions. I love working on innovative projects that challenge me and help me develop new skills. When I'm not coding, you can find me playing soccer, traveling, and cycling.
 
 🔭 **Currently working on:** Improving my web development skills as well as cloud services. 
 
