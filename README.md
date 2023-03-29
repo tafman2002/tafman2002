@@ -17,10 +17,10 @@ I'm a Developer with a passion for [Your Interests]. I love working on innovativ
 
 ## My Skills 🚀
 
-- **Languages:** [Programming Languages you're proficient in] React, Python, JavaScript, java
-- **Frameworks & Libraries:** [Frameworks & Libraries you've worked with] React JS, Flask, Docker, Node.js
-- **Databases:** [Databases you've used]MySQL, MongoDB, Amazon RDS
-- **Tools:** [Tools you've used, e.g. Git, Docker, CI/CD tools, etc.]AWS, Docker
+- **Languages:** React, Python, JavaScript, java
+- **Frameworks & Libraries:**  React JS, Flask, Docker, Node.js
+- **Databases:** MySQL, MongoDB, Amazon RDS
+- **Tools:** AWS, Docker
 
 <!---
 tafman2002/tafman2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
