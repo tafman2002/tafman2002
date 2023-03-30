@@ -17,7 +17,7 @@ I'm a Developer with a passion for software development and designing and implem
 
 ## My Skills 🚀
 
-- **Languages:** React, Python, JavaScript, java
+- **Languages:** Python, JavaScript, java
 - **Frameworks & Libraries:**  React JS, Flask, Docker, Node.js
 - **Databases:** MySQL, MongoDB, Amazon RDS
 - **Tools:** AWS, Docker
