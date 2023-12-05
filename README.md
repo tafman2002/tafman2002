@@ -17,10 +17,11 @@ I'm a Developer with a passion for software development and designing and implem
 
 ## My Skills 🚀
 
-- **Languages:** Python, JavaScript, java
-- **Frameworks & Libraries:**  React JS, Flask, Docker, Node.js
+- **Languages:** Python, JavaScript/TypeScript, Java
+- **Frameworks & Libraries:**  React JS, Next JS, Flask, Docker, Node.js
+- **AWS Certification:** Solutions Architect Professional, Developer Associate, Security Specialty
 - **Databases:** MySQL, MongoDB, Amazon RDS
-- **Tools:** AWS, Docker
+- **Focus Area:** Observability
 
 <!---
 tafman2002/tafman2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
