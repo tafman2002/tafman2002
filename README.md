@@ -1,7 +1,19 @@
 # Hi, I'm Tafadzwa! 👋
 
-I'm a Developer with a passion for software development and designing and implementing scalable, secure, and resilient cloud solutions. I love working on innovative projects that challenge me and help me develop new skills. When I'm not coding, you can find me playing soccer, traveling, and cycling.
+I’m a Solutions Architect and Developer passionate about building scalable, secure, and resilient cloud solutions. I enjoy turning complex problems (AI, distributed systems, multi-tenant apps, observability) into clean, practical architectures that actually work in production. When I’m not building in the cloud, you’ll probably find me playing soccer, cycling, reading manga, or thinking about my next side project.
 
+## What I’m Working On
+
+- Building GenAI demos with Amazon Bedrock (RAG, agents, structured outputs)
+- Multi-tenant SaaS architectures (Next.js + serverless + managed databases)
+- Observability patterns with CloudWatch, OpenSearch, and Grafana
+- Writing and sharing technical deep-dives
+
+## Blog posts 
+- ![Auth0-and-Nextjs](https://aws.amazon.com/blogs/mobile/how-to-build-next-js-apps-with-authentication-using-aws-amplify-and-auth0/)
+- ![Best-practices-with-observability](https://aws.amazon.com/blogs/publicsector/building-resilient-public-services-with-aws-observability-best-practices/)
+
+## 
 🔭 **Currently working on:** Improving my web development skills as well as cloud services. 
 
 🌱 **Learning:** Typescript, advanced AWS services
@@ -12,16 +24,19 @@ I'm a Developer with a passion for software development and designing and implem
 
 📫 **How to reach me:** [LinkedIn] https://www.linkedin.com/in/tchimbindi
 
-⚡ **Fun fact:** Have lived in Europe and Africa
+## Skills 🚀
 
+- Languages: Python · TypeScript · JavaScript · Java 
 
-## My Skills 🚀
+- Frontend: React · Next.js · Tailwind
 
-- **Languages:** Python, JavaScript/TypeScript, Java
-- **Frameworks & Libraries:**  React JS, Next JS, Flask, Docker, Node.js
-- **AWS Certification:** Solutions Architect Professional, Developer Associate, Security Specialty
-- **Databases:** MySQL, MongoDB, Amazon RDS
-- **Focus Area:** Observability
+- Backend & Infrastructure: Node.js · Flask · Docker  · AWS CDK · Terraform
+
+- AWS Focus Areas:Serverless (Lambda, Step Functions, EventBridge, API Gateway), Data (Aurora, RDS, DynamoDB, OpenSearch), AI/ML (Amazon Bedrock, SageMaker, Knowledge Bases),Observability (CloudWatch, Managed Grafana, X-Ray)
+
+- Databases: PostgreSQL · MySQL · MongoDB · DynamoDB
+
+- Certifications: 12 AWS Certifications (Professional, Specialty, Associate)
 
 <!---
 tafman2002/tafman2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
