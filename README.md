@@ -10,8 +10,8 @@ I’m a Solutions Architect and Developer passionate about building scalable, se
 - Writing and sharing technical deep-dives
 
 ## Blog posts 
-- ![Auth0-and-Nextjs](https://aws.amazon.com/blogs/mobile/how-to-build-next-js-apps-with-authentication-using-aws-amplify-and-auth0/)
-- ![Best-practices-with-observability](https://aws.amazon.com/blogs/publicsector/building-resilient-public-services-with-aws-observability-best-practices/)
+- [How to Build Next.js Apps with Authentication using AWS Amplify and Auth0](https://aws.amazon.com/blogs/mobile/how-to-build-next-js-apps-with-authentication-using-aws-amplify-and-auth0/)
+- [Building resilient public services with AWS observability best practices](https://aws.amazon.com/blogs/publicsector/building-resilient-public-services-with-aws-observability-best-practices/)
 
 ## 
 🔭 **Currently working on:** Improving my web development skills as well as cloud services. 
